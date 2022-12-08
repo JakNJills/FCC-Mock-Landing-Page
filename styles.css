@@ -1,0 +1,15 @@
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #f3e0ed;
+  color: #6b7a40;
+  margin: 0;
+  width: 100%;
+}
+
+/*media query*/
+@media screen and (max-width: 440px) {
+
+}
